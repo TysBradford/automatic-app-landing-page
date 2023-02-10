@@ -37,7 +37,7 @@ features                                  :
 
   - title                                 : Personalized stories
     description                           : Create unique stories where your child becomes the main character
-    fontawesome_icon_name                 : cauldron
+    fontawesome_icon_name                 : book
     
   - title                                 : Illustrations
     description                           : All stories are automatically illustrated
@@ -45,11 +45,11 @@ features                                  :
 
   - title                                 : Never ending possibilities
     description                           : Add other family members, friends, pets, toys, you name it!
-    fontawesome_icon_name                 : hat-witch
+    fontawesome_icon_name                 : hat-wizard
 
   - title                                 : Educate and inspire
     description                           : A great way to teach your children with context and characters they are familiar with
-    fontawesome_icon_name                 : sparkle
+    fontawesome_icon_name                 : lightbulb
 
 
 
