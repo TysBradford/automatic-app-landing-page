@@ -4,57 +4,56 @@ title: Privacy Policy
 include_in_header: false
 ---
 
-**Last updated**  
-August 1 2019
-
 # Privacy Policy
-Submissive a when owing much far bawdy thanks impolitely alas overlaid one and this one chuckled darn on more due much misheard amused far far the much purposeful that wildebeest dalmatian and piranha bluebird this and much despite however much sincere nonsensical this paradoxically more.
 
-**Please note:** This is purely a dummy Privacy Policy that serves as an example for how you can use this app landing page generator. Please replace the contents with your own privacy policy.
+**Introduction**
 
-<br>
+This Data Privacy Policy (“Policy”) explains how Mother Goose (“we”, “us”, “our”) collects, uses, and safeguards the personal information of our users. We are committed to protecting the privacy of our users and ensuring that their information is kept confidential.
 
-## 1.0 Information We Collect
-Far near but lighted walking far oyster hello kneeled flung and roadrunner and more witless narrowly flexed brokenly blandly much in famous jeez obsessive that.
+**Types of Information Collected**
 
-### 1.1 Information from third parties
-- Ouch until smirked some some newt that at frustrating.
-- Nimbly handsomely fabulously python.
-- Alas informally taped when a dear some.
+We collect two types of information through our app:
 
-### 1.2 Information you provide to us 
-Menacingly much walrus far together derisive falcon the toneless unceremoniously yet yikes a hung when because far drooled cast amused naughtily quiet hare a thickly more dogged drank more this dismounted since hence nakedly jeez rolled far gerbil the hey puerilely where vociferously struck insane much twitched instead some beneath then wiped dull snuffed far jeez nightingale bit goodness obscurely quit that much yet nefarious careless some concrete shrewdly gull closed this hugged aboard.
+1.  Personal Information: Personal information is any information that can be used to identify an individual, such as a name and date of birth. This information is collected when a user sets up a profile within the app. The profile should be setup using the details of the patent or guardian and NOT the child/children using the app. If you find a child has provided personal information to the app please contact us and we will immediately remove it from our databases.
+2.  Usage Data: Usage data is information about how the app is used, including the frequency of use and the features used. This information is collected through analytics tools and is used to improve our app and to provide personalized experiences for our users.
 
-<br>
+**Purpose of Collecting Information**
 
-## 2.0 What Personal Information we collect about you and how we collect it
-Where cut one reproachful alas ambiguous helpful hen raucous editorial underwrote dubiously therefore this boastfully or possessively oh modest amidst some opposite far wasp grew emu snickered some jeepers and circa much that *equitable* foul camel caudally oh opossum far dear met far much close hello beheld facetious far goodness tidily reindeer that kiwi thus crud that paid and by titilatingly hey falcon lemming or well approving sympathetically groundhog mongoose and deeply peaceful wow ouch far regally this and near and badly fatal blunt mischievously and and the blew.
+The personal information we collect is used to generate personalized stories for each child. The usage data we collect is used to improve our app and to provide a better experience for our users. We may also use the information we collect to communicate with our users, such as sending updates and promotions.
 
-### 2.1 Third Parties we collect information from
-Various remotely save this querulously explicitly one this and far congenially broad grew said or abhorrently haltered darn beheld panther shrank and one goldfish the more away as much different moth.
+**Data Sharing and Disclosures**
 
-| Third Party | What is it used for? |
-| :--- | :--- |
-| Falcon | Tidily reindeer that kiwi thus crud that paid and by titilatingly hey falcon lemming. |
-| Eagle | Juggled crud a however overslept vehemently kept indisputably anteater walked alas or into. |
+We do not sell, trade, or rent any personal information collected through our app to third parties. Any information we collect is used solely for the purpose of generating personalized stories for each child.
 
-<br>
+**Service providers**
 
-## 3.0 What rights do you, as the data subject, have
-This goodness well well and more cowardly lynx credibly more apart save and less oh examined ouch marginal growled and proper liberally salmon busy some while pointed far because understood.
+To offer our service we integrate with some third parties to provide some particular capability.
 
-1. Boastfully or possessively oh modest amidst.
-2. Far far the much purposeful that wildebeest dalmatian.
-3. Adamant or pushed less far overthrew.
+Links to the privacy policy of third-party service providers used by the app
 
-All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.
+-   [Google Play Services](https://www.google.com/policies/privacy/)
+-   [RevenueCat](https://www.revenuecat.com/privacy)
+-   [Replicate](https://replicate.com/privacy)
+-   [OpenAI](https://openai.com/privacy)
 
-<br>
+**Data Security**
 
-## 4.0 How we store and secure the Personal Information we collect
-Worm where gravely behind logically far in tastefully as alas delicately before well darn then far the much pulled red-handed circa much much far pangolin spelled much clung dachshund smirked close some the adamant or pushed less far overthrew in moth begrudging warthog newt pragmatic bent darn and far needlessly notwithstanding angrily as celestially horse rebuking magnanimous dear inscrutably jeepers listless before saucy this much however and wolf dear cringed crab a wanton jeepers flatteringly characteristically a atrocious and returned more lemming robin let some crud that more secure nimble where soundly pitiful because bombastic much.
+We employ state-of-the-art security measures to ensure that our users’ information is protected and kept confidential. Our servers are secured with encryption and firewalls to prevent unauthorized access to our users’ information.
 
-<br>
+**Data Retention**
 
-## 5.0 Information processing and transfers for EEA individuals
-Cracked a more and iguana a without some echidna a abnormal hello and beat thanks jeepers gnu jeepers until up depending for drooled awfully angelfish relentless much a well wasp some in impala darn and overate greedily wow kookaburra beneath much wistful fluid until and lemming less armadillo redoubtable after much capybara wow that hence interbred timorous loosely oh.
+We retain personal information for as long as necessary to provide the services requested by our users. After this period, the information is deleted from our servers.
+
+**Children’s Privacy**
+
+Mother Goose is committed to protecting the privacy of children. We comply with all applicable data privacy laws, including the Children’s Online Privacy Protection Act (COPPA), which requires us to obtain verifiable parental consent before collecting personal information from children under the age of 13.
+
+**Changes to this Policy**
+
+We reserve the right to make changes to this Policy at any time. Any changes will be posted on this page and will become effective immediately upon posting. We encourage our users to regularly review this Policy to stay informed about our privacy practices.
+
+**Contact Us**
+
+If you have any questions or concerns about our privacy practices, please contact us at  [hi@mothergoose.app](mailto:hi@mothergoose.app).
+
+Effective Date: 2nd February 2023
